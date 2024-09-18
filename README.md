@@ -1,2 +1,2 @@
 # HTML-CSS-first-basic-project
-This is simple paragraph project which have to link to read more  about it.
+This is my first basic project  by using html and css
